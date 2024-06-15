@@ -7,11 +7,13 @@
 # Imprime el valor asociado a la clave "banana" en la consola.
 # Imprime el valor asociado a la clave "uva" en la consola.
 
+#Estudiante: Gabriel Garcia
+
 frutas = {
     "manzana": "roja",
-    "banana": , # banana lleva el valor "amarilla"
+    "banana": "amarilla",
     "pera": "verde",
-    "naranja": # naranja lleva el valor "naranja"
+    "naranja": "naranja"
 }
 
 print(frutas)
